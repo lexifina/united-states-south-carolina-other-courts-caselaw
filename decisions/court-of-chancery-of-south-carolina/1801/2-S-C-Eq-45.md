@@ -1,0 +1,26 @@
+---
+court: "Court of Chancery of South Carolina"
+decided: "1801-06"
+citations: ["2 Des. Eq. 45", "2 S.C. Eq. 45"]
+reporter: "sc-eq"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["[Present, Chancellors Rtjtledge, Burke and Marshall]"]
+parties: ["Elizabeth F. Jelineau per prochein amie vs. Francis Jelineau."]
+source_url: "https://static.case.law/sc-eq/2/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8713852
+---
+
+# Jelineau v. Jelineau
+
+## Majority
+
+The Court took time to consider, and afterwards Chancellor Rutledge delivered the decree of the court.
+It has been strongly contended by the counsel for the defendant, that this Court has not by its constitution a power of decreeing a separate maintenance for a woman although she has been ever so harshly treated by her husband, unless a divorce has been previously obtained, or there be an express or implied agreement on their separa-tlon, for that purpose; and'this doctrine is attempted to be supported by the cases cited from the English law unn%„ D00KS-
+It may be very good law in that country, because there ecclesiastical courts have competent jurisdiction to grant divorces, a mensa et thoro : but in this country, át least in this state, there is no such court; those cases therefore are by no means applicable to our local situation» Hard indeed would be the lot of the fair sex, if they alone were tobe excluded from the protection of the laws in this country, and if from the fear of infringing on the marital rights of the husband, the wife must be obliged to submit to all his brutal treatment, without any redress whatsoever. If there were no precedents of the interference of the court of equity in cases of this sort, we must make them, rather than so wanton an abuse of power by a husband over his wife, should escape with impunity.
+On examining the law establishing this court, we find, it has all the powers granted it, incident to a Court of Chancery; and its jurisdiction is not in any measure restricted, except in cases where the party can have complete and adequate remedy at law.
+The cases however of Huger v. Huger, and Wilson v. Wilson, which have been determined in this court, have established precedents for us to follow. It is true, the separate maintenance in those cases was a provision out of the estate, that belonged to the wife; but it can by no means be inferred from thence, that if they had not had such estate, they would not have been provided for out of the estate of the husband. The complainant made out her case by testimony, so as to entitle her to the attention of -this court. That she was extremely ill used, though not beaten by her husband, we need only refer to the testimony of Mrs. P-, who though the sister of complainant, (and may very naturally be supposed to have considerable resentment against the defendant,) delivered her evidence with a calmness and composure, that carried with it the greatest appearance of truth. She said that he bad refused to send away the negro woman slave, who was the bone of contention between them. That at dinner one day, he took away the plate from complainant when she was going to help herself to something to eat, and said, when he and the negro had dined she might. He grudged her the bread she ate, and said grass was good enough for her; that he was going to a magistrate to get a divorce, and would buy a horse whip, and whip her well, before she went away. T'he complainant’s letter to him, \vhich was given in evidence, shews a sincere desire to be again reconciled, and to return home to him. How did he treat it ? He has sworn in his answer to her bill, that it was unworthy of an answer. He has also in his answer lavished his abuse on her in the most unqualified and scandalous manner. His charge of the child, which she bore him, being illegitimate, appears to be as unfounded as it is cruel. It is a wanton attempt by him to bastardise his own issue, and to brand with infamy on the records of this court, the name and character of his injured wife. But the charge has been completely refuted and destroyed by the testimony of Dr. Fronte. At the same moment that he avers he is not obliged to take her back or to maintain her, and that he would be happier without her, he has the confidence to say, if the Court order him to receive her, he is ready to do so.
+He .attempted to prove, (notwithstanding what he had sworn in his answer) that they lived happily together, and examined two witnesses for that purpose.
+The first knew nothing; and the second veiy little. He said he believed they lived happily together, and the next' moment declared that she cried very much when she related to him the conduct of defendant towards her, which he the witness was to communicate to Mr. Morgandollar, whom she went to consult with on the subject. There can be no doubt that the complainant ought to have some provision made for her and her child’s maintenance."
+It would be absurd after what he has sworn to in his answer, to suppose they could ever live happily together; he at one time offered to maintain her, and now offers to make some provision for the child. Let it be referred to the master to make inquiry into the circumstances of the defendant and report thereon.
