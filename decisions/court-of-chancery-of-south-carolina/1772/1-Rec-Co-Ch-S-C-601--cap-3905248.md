@@ -1,7 +1,7 @@
 ---
 court: "Court of Chancery of South Carolina"
 decided: "1772-08-21"
-citations: ["1 Rec. Co. Ch. (S.C.) 601", "1 Rec. Co. Ch. (S.C.) 602"]
+citations: ["1 Rec. Co. Ch. (S.C.) 601"]
 reporter: "rec-co-ch-sc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
