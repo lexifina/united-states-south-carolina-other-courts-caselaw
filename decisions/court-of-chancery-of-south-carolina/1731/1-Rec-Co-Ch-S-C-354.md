@@ -1,7 +1,7 @@
 ---
 court: "Court of Chancery of South Carolina"
 decided: "1731-02-25"
-citations: ["1 Rec. Co. Ch. (S.C.) 354", "1 Rec. Co. Ch. (S.C.) 353"]
+citations: ["1 Rec. Co. Ch. (S.C.) 354"]
 reporter: "rec-co-ch-sc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
