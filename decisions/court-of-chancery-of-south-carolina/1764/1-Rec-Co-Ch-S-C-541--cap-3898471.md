@@ -1,0 +1,19 @@
+---
+court: "Court of Chancery of South Carolina"
+decided: "1764-12-04"
+citations: ["1 Rec. Co. Ch. (S.C.) 541"]
+reporter: "rec-co-ch-sc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Drayton and others v. Edward Fenwicke and others"]
+source_url: "https://static.case.law/rec-co-ch-sc/1/cases/0541-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3898471
+---
+
+# Drayton v. Fenwicke
+
+## Majority (John Troup Register in Chancery)
+
+Ordered that the Defendants do rejoin in Ten Days after the Service of this Rule.
+John Troup Register in Chancery
